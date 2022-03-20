@@ -1,7 +1,7 @@
 def test():
 
     print("In function with new string")
-    print("String in branch2")
+    print("string of brach1 is now modified")
 
 
 test();
