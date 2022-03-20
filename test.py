@@ -1,4 +1,5 @@
 def test():
-    print("In function")
+    print("In function with new string")
+
 
 test();
